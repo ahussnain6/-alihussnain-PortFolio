@@ -1,0 +1,96 @@
+@media screen and (width < 652px){
+  .contact{
+    /* background-image: linear-gradient(to right,blue, darkgreen); */
+    color: white;
+    background: #4F0341;
+    padding-top: 2vh;
+    height: 34vh;
+    width: 100vw;
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Kanit", sans-serif;
+    font-weight: 100;
+    font-style: normal;}
+.fleft{
+  text-align: center;
+  /* border: 2px solid black; */
+  width: 100%;}
+.fright{width: 100%;
+  text-align: center;
+  /* border: 2px solid black; */
+}
+.logos{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  width: 100%;
+  /* border: 2px solid black; */
+}
+.logo{
+  padding:0 .5vw;
+    width: 7.5vw;
+    height: 5vh;
+    color: white;
+}
+.logo:hover{
+color: black;
+transform: scale(1.2,1.2);  
+}
+.wrapper{
+  display: flex;
+}  
+}
+@media screen and (width >= 652px){
+  .contact{
+    /* background-image: linear-gradient(to right,blue, darkgreen); */
+    color: white;
+    background: #4F0341;
+    height: 22vh;
+    border-top: 2px solid black;
+    width: 100vw;
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 100;
+    font-style: normal;}
+.fleft{
+  /* border: 2px solid black; */
+  width: 30%;}
+.fright{width: 25%;
+  /* border: 2px solid black; */
+}
+.logos{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  width: 34%;
+  /* border: 2px solid black; */
+}
+.logo{
+  /* padding:.2vw ; */
+    width: 6vw;
+    height: 6vh;
+    color: white;
+}
+.logo:hover{
+  color: black;
+transform: scale(1.2,1.2);  
+}
+.wrapper{
+  display: flex;
+}  
+}
+
+
+
+ 
+   

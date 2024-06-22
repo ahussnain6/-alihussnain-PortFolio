@@ -47,7 +47,7 @@ gitlink:"https://github.com/ahussnain6/MovieWebapp"
 ]
 export const E1 = `Collaborated with the design team to translate UI/UX design wireframes into responsive web interfaces using HTML5, CSS3, and JavaScript.
 Implemented pixel-perfect designs and ensured cross-browser compatibility.`;
-export const E2 = `As a seasoned software engineer, my current role challenges me to excel in managing diverse projects and resolving intricate bugs. This experience hones my problem-solving skills, enhances teamwork dynamics, and underscores my commitment to delivering robust solutions in a dynamic work environment.`;
+export const E2 = `As a software engineer, my current role challenges me to excel in managing diverse projects and resolving intricate bugs. This experience hones my problem-solving skills, enhances teamwork dynamics, and underscores my commitment to delivering robust solutions in a dynamic work environment.`;
 export const Intro =`An enthusiastic software engineer with a background in crafting both web and mobile
            applications using JavaScript, React.js, Angular, React Native, and various other
            cutting-edge libraries and frameworks.`;

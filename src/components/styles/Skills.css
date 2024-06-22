@@ -9,11 +9,13 @@
   text-align: center;
 }
 
-
+.font-132{
+  font-size: 1rem;
+}
  .skills{
   /* border: 2px solid yellow; */
   width: 101.2%;
-  padding-left: 2vh;
+  /* padding-left: 2vh; */
   height: 71vh;
  }
  .center-19{
@@ -28,11 +30,11 @@
   flex-direction: column;
  }
  .skill-1{
-  background: #4F0341;
+  background: linear-gradient(to right,black,#4F0341);
   display: grid;
   grid-template-columns: repeat(4,5fr);
 /* border: 2px solid blue; */
-width: 100%;
+width: 98.8%;
 border-radius: 1rem;
 height: 100%;
 padding-top: 7vh;
@@ -49,77 +51,47 @@ padding-left: 7vh;
     text-align: center;
     font-family: "Montserrat", sans-serif;
     background:#4F0341;
-    
+    display: flex;
+    flex-direction: row;
   }
-  .bg-success-1{
-    background-color: yellow !important;
-    color: white!important;
-  }
-  .bg-success-2{
-    background-color: red !important;
-    color: white !important;
-  }.bg-success-3{
-    color: white !important;
-    background-color: lightseagreen!important;
-  }.bg-success-4{
-    color: white !important;
-    background-color: green !important;
-  }.bg-success-5{
-    color: white !important;
-    background-color: #280137 !important;
-  }.bg-success-6{
-    color: white !important;
-    background-color: purple !important;
-  }.bg-success-7{
-    color: white !important;
-    background-color:#420303 !important;
-  }.bg-success-8{
-    color: white !important;
-    background-color:#333333 !important;
-  }.bg-success-9{
-
-    color: white !important;    background-color:#062e03 !important;
-  }
-  .bg-success-10{
-    color: white !important;
-    background-color: #2a2a35 !important;
-  }.bg-success-12{
-    color: white !important;
-    background-color: #11887b !important;
-  }.bg-success-13{
-    color: white !important;
-    background-color: #EB0082 !important;
-  }.bg-success-13{
-    color: white !important;
-    background-color: black !important;
-  }.bg-success-14{
-    color: white !important;
-    background-color: #11887b !important;
-  }
-  .bg-success-15{
-    color: white !important;
-    background-color: #442200 !important;
-  }.bg-success-16{
-    color: white !important;
-    /* border-right:2px solid white ; */
-    background-color: navy !important;}
+ 
     @media screen and (820px < width < 1100px){
       .skills{
         /* border: 2px solid yellow; */
-        width: 101.2%;
-        padding-left: 2vh;
+        width: 101%;
+        /* padding-left: 2vh; */
         height: 70vh;
        }
+       .font-132{
+        font-size: .9rem;
+      }
   .progress{ 
+    margin-left: -1vh;
     width: 21vw;
     font-size: .8rem;}
     }
     @media screen and (650px < width <= 820px){
-      
+      .font-132{
+        font-size: .8rem;
+      }
       .progress{ font-size: .75rem;
       height: 4.4vh;
       width: 21.5vw;
       }
+      .progress{ 
+        font-size: .65rem;
+        height: 4.4vh;
+        width: 21.5vw;
+        margin-left: -1.2vh;
+        }
+
+        .skills{
+          /* border: 2px solid yellow !important; */
+          width: 100.7%;
+          /* padding-left: 2vh; */
+          height: 71vh;
+         
+          }
         }
         @media screen and (550px < width <= 650px){
           #skill{
@@ -128,19 +100,24 @@ padding-left: 7vh;
             width: 100%;
             padding: 0;
            }
+           .font-132{
+            font-size: .76rem;
+          }
           .progress{ 
           font-size: .65rem;
           height: 4.4vh;
           width: 21.5vw;
+          margin-left: -1.2vh;
           }
           .skills{
             /* border: 2px solid yellow !important; */
-            width: 101.9%;
-            padding-left: 2vh;
+            width: 100%;
+            /* padding-left: 2vh; */
             height: 71vh;
            
             }
             .skill-1{
+              background: linear-gradient(to right,black,#4F0341);
               width: 100%;
               height: 100%;
             }
@@ -152,17 +129,19 @@ padding-left: 7vh;
                 width: 100%;
                 padding: 0;
                }
-              
+               .font-132{
+                font-size: 1.1rem;
+              }
               .skills{
                 /* border: 2px solid yellow; */
-                width: 101.2%;
+                width: 100%;
                 /* padding-left: 2vh; */
                 height: 72vh;
                
                }
               .skill-1{
                 border-radius:1rem;
-                background: #4F0341;
+                background: linear-gradient(to right,black,#4F0341);
                 display: flex;
                 flex-direction: column;
                 justify-content: center;
@@ -178,6 +157,7 @@ padding-left: 7vh;
               font-size: 1.01rem;
               height: 5.5vh !important;
               width: 65vw;
+              /* margin-left: ; */
               }
 
             }

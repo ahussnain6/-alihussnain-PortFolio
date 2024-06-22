@@ -45,9 +45,9 @@ gitlink:"https://github.com/ahussnain6/MovieWebapp"
            
         
 ]
-export const E1 = `Collaborated with the design team to translate UI/UX design wireframes into responsive web interfaces using HTML5, CSS3, and JavaScript. <br />
+export const E1 = `Collaborated with the design team to translate UI/UX design wireframes into responsive web interfaces using HTML5, CSS3, and JavaScript.
 Implemented pixel-perfect designs and ensured cross-browser compatibility.`;
-export const E2 = `Collaborated with the design team to translate UI/UX design wireframes into responsive web interfaces using HTML5, CSS3, and JavaScript. <br />
+export const E2 = `Collaborated with the design team to translate UI/UX design wireframes into responsive web interfaces using HTML5, CSS3, and JavaScript. 
 Implemented pixel-perfect designs and ensured cross-browser compatibility.`;
 export const Intro =`An enthusiastic software engineer with a background in crafting both web and mobile
            applications using JavaScript, React.js, Angular, React Native, and various other

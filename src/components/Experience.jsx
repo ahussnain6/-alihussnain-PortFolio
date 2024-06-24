@@ -22,7 +22,7 @@ const Experience = () => {
         <div className="timeline-content">
           <h3 className="date cent font-515" >June 2023 - PRESENT</h3>
           <h1 className='font-515 cent' >Alter Learning Inc</h1>
-          <h1 className='font-515 cent'>Software (Remote)</h1>
+          <h1 className='font-515 cent'>Software Engineer (Remote)</h1>
           <p className='font-515 cent'>
           {E2}
           </p>

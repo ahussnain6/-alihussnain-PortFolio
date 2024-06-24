@@ -38,7 +38,7 @@ gitlink:"https://github.com/ahussnain6/MovieWebapp"
                 
                 {
                     name:"ALI-CHAT APPLICATION",
-                    details:`This chat application facilitates seamless messaging between users and groups. Users create groups for collective messaging, change profile pictures via ZegoCloud, and initiate video/audio calls. Profile picture upload is mandatory post-signup. Additionally, users can edit and delete messages, ensuring a dynamic and interactive communication experience. `,
+                    details:`Developed a chat application using the MERN stack, emphasizing robust system design and architecture. Integrated ZEGOCLOUD for seamless video and audio calling capabilities. Focused on enhancing communication features, ensuring real-time messaging, high performance, and scalability. Optimized for an exceptional user experience and reliability.`,
                     projectlink:"https://chatapplication-63898.web.app/",
                     gitlink:"https://github.com/ahussnain6/AliChatApplication-Frontend-",
                     },
